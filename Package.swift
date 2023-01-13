@@ -11,7 +11,7 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "Charts",
+            name: "UICharts",
             targets: ["Charts"]),
         .library(
             name: "ChartsDynamic",
